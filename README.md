@@ -1,0 +1,2 @@
+# novelDjango
+这是把各种小说api数据提供给微信小程序前端的Django后端项目

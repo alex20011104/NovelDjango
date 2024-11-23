@@ -1,0 +1,3 @@
+要运行此程序需要虚拟环境
+使用以下命令即可安装所需的python所需的依赖
+pip install -r requirements.txt
